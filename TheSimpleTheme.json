@@ -3,7 +3,7 @@
         "alpha": 255,
         "blur_radius": 10,
         "overlay_alpha": 40,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/923935731154583643\/928808597142528070\/New_Project_1_C76C703.png"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/879469727255244801\/929790792518754364\/TheMostUselessPngEver_D9060CD.png"
     },
     "colors": {
         "brand": -14013910,
@@ -29,10 +29,10 @@
     },
     "fonts": {},
     "manifest": {
-        "version": "1.3",
-        "name": "The Cosmonaute In The Universe",
+        "version": "1.0",
+        "name": "The Simple Theme",
         "author": "Blurripy",
-        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/TheCosmonauteInTheUniverse.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/TheSimpleTheme\/edit\/main\/TheSimpleTheme.json"
     },
     "simple_colors": {
         "accent": -1052689,
